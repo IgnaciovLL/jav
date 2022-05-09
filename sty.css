@@ -1,0 +1,44 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    font-size: 35px;
+    margin: 20px 250px;
+    padding: 20px;
+    text-align: center;
+    border: 10px outset;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+    border-left-color: sienna;
+    border-right-color: burlywood;
+    border-bottom-color: red;
+    border-top-color: black;
+}
+
+.nom{
+    text-decoration: underline double;
+    text-align: center;
+    color: brown;
+    font-size: 30px;
+    margin: 5pc 15pc;
+    padding: 25px 35px;
+    background-color: greenyellow;
+    border: 10px solid;
+    border-radius: 25px;
+    border-color: beige;
+}
+
+.ciu{
+    text-align: center;
+    color: brown;
+    font-size: 30px;
+    margin: 5pc 15pc;
+    padding: 15px 25px;
+    background-color: blueviolet;
+    border: 5px solid;
+    border-radius: 15px;
+    border-color: gray;
+}
